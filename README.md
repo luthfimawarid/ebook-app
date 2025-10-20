@@ -8,7 +8,7 @@ Aplikasi web untuk membaca Ebook secara aman tanpa bisa di-download dan di-copy.
 - Warning popup saat pindah tab
 
 ## Teknologi
-- Laravel 11
+- Laravel 12
 - Bootstrap 5
 
 ## Cara Jalankan
